@@ -1,0 +1,61 @@
+body{
+	font-family: "Trebuchet MS";
+}
+h1{
+	text-align: center;
+}
+p{
+	margin: 8px;
+	text-align: justify;
+}
+#column1{
+	margin: 10px;
+	float:left;
+	width: 30%;
+	background: #CFC;
+	text-align: center;
+}
+#column2{
+	margin: 10px;
+	float: left;
+	width: 30%;
+	text-align: center;
+}
+#column3{
+	margin: 10px;
+	float: left;
+	width: 30%;
+	background: #FFC;
+	text-align: center;
+}
+#imagen{
+	width: 420px;
+	height: 300px;
+}
+section{
+	float: left;
+	background: blue;
+	
+}
+/* Estilo para la alineacion de los textos*/
+.fl_left{
+	float: left;
+}
+.fl_right{
+	float: right;
+}
+/* Estilo para todo el documento*/
+/* Estilo para los enlaces*/
+a:link{ color: #FCF;}
+a:visited{ 
+
+	
+	color: #FF0;}
+
+
+footer{
+	display: block;
+	margin: 10px;
+	background: blue;
+	
+}
